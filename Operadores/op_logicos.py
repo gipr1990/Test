@@ -12,16 +12,3 @@ else:
     print ("es gonzalo")
 
 
-
-
-
-
-
-
-
-
-
-
-
-    
-    
