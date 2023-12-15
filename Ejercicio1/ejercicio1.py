@@ -7,11 +7,10 @@ dif_con_min = 100 - (dalto_curso * 100 / otros_cursos_min)
 
 print (dif_con_min)
 
+dif_con_max = 100 - (dalto_curso * 100 / otros_cursos_max)
+
+print (dif_con_max)
 
 dif_con_max = 100 - (dalto_curso * 100 / otros_cursos_max)
+
 print (dif_con_max)
-
-
-dif_con_promedio = 100 - (dalto_curso * 100 / otros_cursos_max)
-print (dif_con_max)
-
